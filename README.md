@@ -125,7 +125,7 @@ Production Scale:    16M+ users, 10K+ daily operations, <10s latency
 ## 💡 Other Notable Work
 
 - **Agentic RAG Platform** — Production-scale analytics with Databricks, Spark, Delta Live Tables, and MLflow
-- **CLICK Platform** — Backend infrastructure serving 16M+ citizens (Sindh Government, World Bank funded)
+- **CLICK Platform** — Backend infrastructure serving 16M+ citizens
 - **Smart Surveillance System** — Real-time vehicle detection processing 10K+ records daily (OpenCV + .NET)
 
 ---
@@ -151,7 +151,7 @@ Open Source Contributor • LLM Infrastructure
 
 **Backend Engineer** — *The Synergates* (Jun 2024 - Oct 2024)  
 - Engineered scalable systems for CLICK platform serving 16M+ citizens
-- Built real-time vehicle detection pipeline for Sindh Smart Surveillance System
+- Built real-time vehicle detection pipeline for  Smart Surveillance System
 
 **SWE Intern** — *10Pearls* (Jun 2024 - Jul 2024)  
 - Developed backend services using Java Spring Boot with REST APIs
