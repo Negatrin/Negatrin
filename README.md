@@ -1,4 +1,4 @@
-# Hi, I'm Muhammad Mustufa 👋
+# Hi, I'm Muhammad Mustufa 
 
 ### Software Engineer | Backend Systems & AI Infrastructure
 
@@ -14,26 +14,25 @@ I build **scalable backend systems**, **distributed infrastructure**, and **prod
 
 ---
 
-## 🚀 Current Focus
+##  Current Focus
 
-- 🔨 **Google Summer of Code** — Building optimized batching pipelines for Gemma 2 embeddings via KerasHub
-- 🎓 **CS @ LUMS** — Deep Learning, LLM Systems, Distributed Computing
-- 💡 Building production-grade RAG systems and multi-agent architectures
+-  **Google Summer of Code** — Building optimized batching pipelines for Gemma 2 embeddings via KerasHub
+-  Building production-grade RAG systems and multi-agent architectures
 
 ---
 
-## 💼 What I Build
+##  What I Build
 
 ```yaml
-Backend Systems:     Scalable APIs, microservices, distributed databases
-Distributed Systems: Raft consensus, fault tolerance, replication
-AI/ML Infrastructure: RAG pipelines, LLM agents, embedding systems
-Production Scale:    16M+ users, 10K+ daily operations, <10s latency
+Backend Systems:       Scalable APIs, microservices, distributed data systems
+Distributed Systems:   Consensus (Raft), fault tolerance, replication
+AI/ML Infrastructure:  RAG pipelines, LLM agents, evaluation systems
+Production Scale:      16M+ users, 10K+ daily ops, sub-10s latency systems
 ```
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages**  
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -61,14 +60,14 @@ Production Scale:    16M+ users, 10K+ daily operations, <10s latency
 
 ---
 
-## 🏆 Featured Projects
+##  Featured Projects
 
-### 🤖 [Multi-Agent Auto-Analytics System](https://github.com/sproj-org/P13-ContinuumAI)
-> AI-driven analytics platform with natural language querying and automated insights
+###  [Multi-Agent Auto-Analytics System](https://github.com/sproj-org/P13-ContinuumAI)
+> AI-driven analytics platform enabling natural language querying and automated insight generation, functioning as an intelligent BI system with decision-support capabilities
 
 **Tech**: FastAPI • Next.js • PostgreSQL • Redis • OpenAI  
 **Impact**: 90% query success rate, <10s latency on 1GB datasets  
-**Demo**: [Watch Video](https://www.youtube.com/watch?v=T_hFb3U4KF0)
+**Demo**: [Watch Video](https://youtu.be/rcmeS7pLnzQ)
 
 - LLM-powered assistant for dataset profiling and KPI generation
 - Medallion architecture with multi-source support (Snowflake, PostgreSQL, BigQuery)
@@ -76,7 +75,7 @@ Production Scale:    16M+ users, 10K+ daily operations, <10s latency
 
 ---
 
-### 🔐 Distributed Key-Value Store
+###  Distributed Key-Value Store
 > Fault-tolerant distributed KV store implementing Raft consensus algorithm
 
 **Tech**: Go • Raft • gRPC  
@@ -88,7 +87,7 @@ Production Scale:    16M+ users, 10K+ daily operations, <10s latency
 
 ---
 
-### 📚 [IntelliLearn — EdTech Platform](https://intellilearn.netlify.app/)
+###  [IntelliLearn — EdTech Platform](https://intellilearn.netlify.app/)
 > Personalized learning platform with RAG-based guidance and adaptive quizzes
 
 **Tech**: Next.js • LangChain • Vector Search • PostgreSQL • AWS
@@ -99,7 +98,7 @@ Production Scale:    16M+ users, 10K+ daily operations, <10s latency
 
 ---
 
-### 🏥 [AI Simulated Patient System](https://github.com/hashirsalman/simulating_physicians)
+###  [AI Simulated Patient System]
 > LLM-based diagnostic interaction system for medical training
 
 **Tech**: Python • LangChain • RAG  
@@ -111,7 +110,7 @@ Production Scale:    16M+ users, 10K+ daily operations, <10s latency
 
 ---
 
-### 🔬 [Tuberculosis Detection System](https://github.com/Negatrin/Mutlimodal_tb_detection/)
+###  [Tuberculosis Detection System](https://github.com/Negatrin/Mutlimodal_tb_detection/)
 > Multimodal ML system for TB diagnosis with explainability
 
 **Tech**: PyTorch • Vision Transformers • SHAP • Grad-CAM  
@@ -123,9 +122,20 @@ Production Scale:    16M+ users, 10K+ daily operations, <10s latency
 
 ---
 
-## 💼 Additional Projects
+##  Additional Projects
 
-### 🛰️ [Satellite Portal Crop](https://github.com/Negatrin/satellite-portal-crop)
+### [Persona-Conditioned Clinical Reasoning](https://github.com/hashirsalman/simulating_physicians)
+**Evaluation pipeline for analyzing LLM diagnostic reasoning under persona-based contextual variations**  
+Tech: Python • LLM APIs • Prompt Engineering • Data Analysis  
+
+- Evaluated multiple LLMs across clinician-vetted diagnostic vignettes  
+- Designed persona-conditioned prompting to measure geographic bias in reasoning  
+- Implemented rubric-based scoring pipeline for structured evaluation
+
+---
+  
+
+###  [Satellite Portal Crop](https://github.com/Negatrin/satellite-portal-crop)
 **Real-time satellite imagery analytics for agricultural monitoring**  
 Tech: Next.js • Flask • Google Earth Engine • Redis • Leaflet  
 Live: [satellite-portal-crop.vercel.app](https://satellite-portal-crop.vercel.app)
@@ -136,7 +146,7 @@ Live: [satellite-portal-crop.vercel.app](https://satellite-portal-crop.vercel.ap
 
 ---
 
-### 🤖 [Conversational AI Chatbot](https://github.com/Negatrin/simple-conversation-ai)
+### [Conversational AI Chatbot](https://github.com/Negatrin/simple-conversation-ai)
 **Business-focused conversational AI assistant**  
 Tech: React • TypeScript • Vite • Tailwind  
 Live: [simple-conversation-ai.vercel.app](https://simple-conversation-ai.vercel.app)
@@ -147,10 +157,11 @@ Live: [simple-conversation-ai.vercel.app](https://simple-conversation-ai.vercel.
 
 ---
 
-### 🏥 [MindSync — Mental Health Platform](https://github.com/Hamza-1010/CS-360-Project)
+### [MindSync — Mental Health Platform](https://github.com/Negatrin/Mind-Sync)
 **Comprehensive mental health platform connecting users with therapists**  
 Tech: React • Authentication • Healthcare APIs  
 Live: [sedeploy-2.vercel.app](https://sedeploy-2.vercel.app/)
+
 
 - Secure authentication and role-based access
 - Patient and practitioner portals
@@ -158,7 +169,7 @@ Live: [sedeploy-2.vercel.app](https://sedeploy-2.vercel.app/)
 
 ---
 
-### 📰 [Urdu News Classification System](https://github.com/ha405/Urdu-News-Classification-with-ML)
+###  [Urdu News Classification System](https://github.com/ha405/Urdu-News-Classification-with-ML)
 **Machine learning pipeline for Urdu text classification**  
 Tech: Python • Machine Learning • NLP  
 **Accuracy**: 98%
@@ -169,7 +180,7 @@ Tech: Python • Machine Learning • NLP
 
 ---
 
-### 🏢 [Enterprise Content Management System](https://github.com/Negatrin/Project_Spring_boot)
+###  [Enterprise Content Management System](https://github.com/Negatrin/Project_Spring_boot)
 **Full-stack CMS for SME operations**  
 Tech: Java • Spring Boot • MySQL • REST APIs
 
@@ -179,7 +190,7 @@ Tech: Java • Spring Boot • MySQL • REST APIs
 
 ---
 
-### 🎓 [Student Grading Management System](https://github.com/Shaheer-Ahmd/ha-sms)
+###  [Student Grading Management System](https://github.com/Shaheer-Ahmd/ha-sms)
 **Complete grading and academic management platform**  
 Tech: ASP.NET • C# • SQL Server
 
@@ -189,22 +200,23 @@ Tech: ASP.NET • C# • SQL Server
 
 ---
 
-## 💡 Notable Work Experience Projects
+##  Notable Work Experience Projects
 
 - **Agentic RAG Platform** — Production-scale analytics with Databricks, Spark, Delta Live Tables, and MLflow
 - **CLICK Platform** — Backend infrastructure serving 16M+ citizens (Sindh Government, World Bank funded)
 - **Smart Surveillance System** — Real-time vehicle detection processing 10K+ records daily (OpenCV + .NET)
 - **Clinical RAG Assistant (Hospital Deployment)** — Designed and deployed a retrieval-augmented generation (RAG) system for clinical support at Aga Khan University Hospital and Shalimar Hospital.
+- **Text-to-SQL Platform** — Engineered a system integrated with Kafka-based streaming pipelines, handling 500K+ daily real-time data queries in a large-scale fintech environment.
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 I'm always open to discussing **distributed systems**, **AI/ML infrastructure**, and **backend architecture**.
 
-- 💼 [LinkedIn](https://linkedin.com/in/muhammad-mustufa-02a108230)
-- 🌐 [Portfolio](https://muhammadmustafa-portfolio.vercel.app)
-- 📧 [mustufashadab123@gmail.com](mailto:mustufashadab123@gmail.com)
+-  [LinkedIn](https://linkedin.com/in/muhammad-mustufa-02a108230)
+-  [Portfolio](https://muhammadmustafa-portfolio.vercel.app)
+-  [mustufashadab123@gmail.com](mailto:mustufashadab123@gmail.com)
 
 ---
 
