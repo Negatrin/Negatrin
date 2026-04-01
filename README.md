@@ -98,7 +98,7 @@ Production Scale:      16M+ users, 10K+ daily ops, sub-10s latency systems
 
 ---
 
-###  [AI Simulated Patient System]
+###  AI Simulated Patient System
 > LLM-based diagnostic interaction system for medical training
 
 **Tech**: Python • LangChain • RAG  
