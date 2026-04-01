@@ -2,7 +2,7 @@
 
 ### Software Engineer | Backend Systems & AI Infrastructure
 
-I build **scalable backend systems**, **distributed infrastructure**, and **production-grade AI applications** that operate at real-world scale.
+I build **scalable backend systems**, **distributed infrastructure**, and **production-grade AI applications** that operate at real-world scale. Currently contributing to **Google Summer of Code** with DeepMind, optimizing LLM infrastructure for Gemma 2.
 
 <div align="center">
   
@@ -63,11 +63,12 @@ Production Scale:    16M+ users, 10K+ daily operations, <10s latency
 
 ## 🏆 Featured Projects
 
-### 🤖 Multi-Agent Auto-Analytics System
+### 🤖 [Multi-Agent Auto-Analytics System](https://github.com/sproj-org/P13-ContinuumAI)
 > AI-driven analytics platform with natural language querying and automated insights
 
 **Tech**: FastAPI • Next.js • PostgreSQL • Redis • OpenAI  
-**Impact**: 90% query success rate, <10s latency on 1GB datasets
+**Impact**: 90% query success rate, <10s latency on 1GB datasets  
+**Demo**: [Watch Video](https://www.youtube.com/watch?v=T_hFb3U4KF0)
 
 - LLM-powered assistant for dataset profiling and KPI generation
 - Medallion architecture with multi-source support (Snowflake, PostgreSQL, BigQuery)
@@ -87,7 +88,7 @@ Production Scale:    16M+ users, 10K+ daily operations, <10s latency
 
 ---
 
-### 📚 IntelliLearn — EdTech Platform
+### 📚 [IntelliLearn — EdTech Platform](https://intellilearn.netlify.app/)
 > Personalized learning platform with RAG-based guidance and adaptive quizzes
 
 **Tech**: Next.js • LangChain • Vector Search • PostgreSQL • AWS
@@ -98,19 +99,19 @@ Production Scale:    16M+ users, 10K+ daily operations, <10s latency
 
 ---
 
-### 🏥 AI Simulated Patient System
+### 🏥 [AI Simulated Patient System](https://github.com/hashirsalman/simulating_physicians)
 > LLM-based diagnostic interaction system for medical training
 
 **Tech**: Python • LangChain • RAG  
 **Deployment**: Aga Khan University Hospital, Shalimar Hospital
 
 - Context-aware diagnostic question generation
-- Structured response pipelines for clinical accuracy
-- Real-world deployment in healthcare education
+- Persona-conditioned evaluation across six LLMs
+- Rubric-based scoring for clinical decision support
 
 ---
 
-### 🔬 Tuberculosis Detection System
+### 🔬 [Tuberculosis Detection System](https://github.com/Negatrin/Mutlimodal_tb_detection/)
 > Multimodal ML system for TB diagnosis with explainability
 
 **Tech**: PyTorch • Vision Transformers • SHAP • Grad-CAM  
@@ -122,10 +123,76 @@ Production Scale:    16M+ users, 10K+ daily operations, <10s latency
 
 ---
 
-## 💡 Other Notable Work
+## 💼 Additional Projects
+
+### 🛰️ [Satellite Portal Crop](https://github.com/Negatrin/satellite-portal-crop)
+**Real-time satellite imagery analytics for agricultural monitoring**  
+Tech: Next.js • Flask • Google Earth Engine • Redis • Leaflet  
+Live: [satellite-portal-crop.vercel.app](https://satellite-portal-crop.vercel.app)
+
+- NDVI & NDBI calculations on Sentinel-2 satellite data
+- Interactive viewer with real-time pixel analytics
+- Time-series vegetation index tracking
+
+---
+
+### 🤖 [Conversational AI Chatbot](https://github.com/Negatrin/simple-conversation-ai)
+**Business-focused conversational AI assistant**  
+Tech: React • TypeScript • Vite • Tailwind  
+Live: [simple-conversation-ai.vercel.app](https://simple-conversation-ai.vercel.app)
+
+- Context-aware conversation handling
+- Modern responsive UI design
+- Real-time message processing
+
+---
+
+### 🏥 [MindSync — Mental Health Platform](https://github.com/Hamza-1010/CS-360-Project)
+**Comprehensive mental health platform connecting users with therapists**  
+Tech: React • Authentication • Healthcare APIs  
+Live: [sedeploy-2.vercel.app](https://sedeploy-2.vercel.app/)
+
+- Secure authentication and role-based access
+- Patient and practitioner portals
+- Healthcare-compliant data handling
+
+---
+
+### 📰 [Urdu News Classification System](https://github.com/ha405/Urdu-News-Classification-with-ML)
+**Machine learning pipeline for Urdu text classification**  
+Tech: Python • Machine Learning • NLP  
+**Accuracy**: 98%
+
+- Advanced NLP techniques for Urdu text processing
+- Multi-category news classification
+- Optimized feature extraction pipeline
+
+---
+
+### 🏢 [Enterprise Content Management System](https://github.com/Negatrin/Project_Spring_boot)
+**Full-stack CMS for SME operations**  
+Tech: Java • Spring Boot • MySQL • REST APIs
+
+- Role-based access control and authentication
+- CRUD operations with business logic
+- Scalable backend architecture
+
+---
+
+### 🎓 [Student Grading Management System](https://github.com/Shaheer-Ahmd/ha-sms)
+**Complete grading and academic management platform**  
+Tech: ASP.NET • C# • SQL Server
+
+- Student performance tracking and analytics
+- Automated grade calculations
+- Administrative dashboard and reporting
+
+---
+
+## 💡 Notable Work Experience Projects
 
 - **Agentic RAG Platform** — Production-scale analytics with Databricks, Spark, Delta Live Tables, and MLflow
-- **CLICK Platform** — Backend infrastructure serving 16M+ citizens
+- **CLICK Platform** — Backend infrastructure serving 16M+ citizens (Sindh Government, World Bank funded)
 - **Smart Surveillance System** — Real-time vehicle detection processing 10K+ records daily (OpenCV + .NET)
 
 ---
@@ -151,7 +218,7 @@ Open Source Contributor • LLM Infrastructure
 
 **Backend Engineer** — *The Synergates* (Jun 2024 - Oct 2024)  
 - Engineered scalable systems for CLICK platform serving 16M+ citizens
-- Built real-time vehicle detection pipeline for  Smart Surveillance System
+- Built real-time vehicle detection pipeline for Sindh Smart Surveillance System
 
 **SWE Intern** — *10Pearls* (Jun 2024 - Jul 2024)  
 - Developed backend services using Java Spring Boot with REST APIs
