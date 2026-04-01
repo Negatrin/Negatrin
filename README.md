@@ -2,7 +2,7 @@
 
 ### Software Engineer | Backend Systems & AI Infrastructure
 
-I build **scalable backend systems**, **distributed infrastructure**, and **production-grade AI applications** that operate at real-world scale. Currently contributing to **Google Summer of Code** with DeepMind, optimizing LLM infrastructure for Gemma 2.
+I build **scalable backend systems**, **distributed infrastructure**, and **production-grade AI applications** that operate at real-world scale.
 
 <div align="center">
   
