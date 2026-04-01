@@ -1,79 +1,178 @@
 # Hi, I'm Muhammad Mustufa 👋
 
-**Software Engineer (Backend & AI Systems)**
+### Software Engineer | Backend Systems & AI Infrastructure
 
-I build scalable backend systems, distributed infrastructure, and production-grade AI applications.
-My work focuses on designing reliable systems that handle real-world scale, from LLM pipelines to fault-tolerant distributed services.
+I build **scalable backend systems**, **distributed infrastructure**, and **production-grade AI applications** that operate at real-world scale. Currently contributing to **Google Summer of Code** with DeepMind, optimizing LLM infrastructure for Gemma 2.
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-mustufa-02a108230)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://muhammadmustafa-portfolio.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mustufashadab123@gmail.com)
+
+</div>
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 Current Focus
 
-* Backend systems and API design at scale
-* Distributed systems (consensus, fault tolerance)
-* Production ML systems (RAG, LLM pipelines, multi-agent systems)
+- 🔨 **Google Summer of Code** — Building optimized batching pipelines for Gemma 2 embeddings via KerasHub
+- 🎓 **CS @ LUMS** — Deep Learning, LLM Systems, Distributed Computing
+- 💡 Building production-grade RAG systems and multi-agent architectures
+
+---
+
+## 💼 What I Build
+
+```yaml
+Backend Systems:     Scalable APIs, microservices, distributed databases
+Distributed Systems: Raft consensus, fault tolerance, replication
+AI/ML Infrastructure: RAG pipelines, LLM agents, embedding systems
+Production Scale:    16M+ users, 10K+ daily operations, <10s latency
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+**Languages**  
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-Go • Python • C++ • Java • JavaScript • SQL
+**Backend & Cloud**  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
-### Backend & Frameworks
-
-Spring Boot • Node.js • FastAPI • Laravel • Next.js
-
-### Databases & Storage
-
-PostgreSQL • MySQL • MongoDB • Redis
-
-### DevOps & Cloud
-
-Docker • Kubernetes • AWS (EC2, Lambda, S3) • Azure • CI/CD • Databricks
-
-### AI / ML Systems
-
-PyTorch • TensorFlow • LangChain • RAG • LLMs • OpenCV
-
-### Core Concepts
-
-Distributed Systems • Microservices • REST APIs • OOP • SOLID • Design Patterns
-
----
-
-## 🌟 Featured Projects
-
-### 🔹 Multi-Agent Auto-Analytics System
-
-AI-driven platform that generates dashboards and insights from natural language queries using LLM agents.
-
-* Designed scalable pipelines with PostgreSQL + Redis caching
-* Achieved sub-10s latency on large datasets
+**AI/ML & Data**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 
 ---
 
-### 🔹 Distributed Key-Value Store
+## 🏆 Featured Projects
 
-Fault-tolerant KV store implementing the Raft consensus algorithm.
+### 🤖 Multi-Agent Auto-Analytics System
+> AI-driven analytics platform with natural language querying and automated insights
 
-* Leader election, log replication, snapshotting
-* Tested under node failures and network partitions
+**Tech**: FastAPI • Next.js • PostgreSQL • Redis • OpenAI  
+**Impact**: 90% query success rate, <10s latency on 1GB datasets
 
----
-
-### 🔹 IntelliLearn (EdTech Platform)
-
-Personalized learning system powered by LLMs and vector search.
-
-* RAG-based assistant with adaptive quiz generation
-* Deployed end-to-end with scalable backend
+- LLM-powered assistant for dataset profiling and KPI generation
+- Medallion architecture with multi-source support (Snowflake, PostgreSQL, BigQuery)
+- Multi-agent orchestration for automated insight generation
 
 ---
 
-## 📫 Connect with Me
+### 🔐 Distributed Key-Value Store
+> Fault-tolerant distributed KV store implementing Raft consensus algorithm
 
-* LinkedIn: https://linkedin.com/in/muhammad-mustufa-02a108230
-* Portfolio: https://muhammadmustafa-portfolio.vercel.app
-* Email: [mustufashadab123@gmail.com](mailto:mustufashadab123@gmail.com)
+**Tech**: Go • Raft • gRPC  
+**Features**: Leader election, log replication, crash recovery
+
+- Stress-tested across 5-node clusters under network partitions and failures
+- Snapshotting and log compaction for state management
+- Randomized testing for correctness validation
+
+---
+
+### 📚 IntelliLearn — EdTech Platform
+> Personalized learning platform with RAG-based guidance and adaptive quizzes
+
+**Tech**: Next.js • LangChain • Vector Search • PostgreSQL • AWS
+
+- Vector search for semantic course retrieval
+- GenAI pipelines for real-time adaptive quiz generation
+- End-to-end deployment on AWS infrastructure
+
+---
+
+### 🏥 AI Simulated Patient System
+> LLM-based diagnostic interaction system for medical training
+
+**Tech**: Python • LangChain • RAG  
+**Deployment**: Aga Khan University Hospital, Shalimar Hospital
+
+- Context-aware diagnostic question generation
+- Structured response pipelines for clinical accuracy
+- Real-world deployment in healthcare education
+
+---
+
+### 🔬 Tuberculosis Detection System
+> Multimodal ML system for TB diagnosis with explainability
+
+**Tech**: PyTorch • Vision Transformers • SHAP • Grad-CAM  
+**Performance**: 94% F1-score
+
+- Efficient Vision Transformer architecture
+- Explainability integration for clinical trust
+- End-to-end training and inference pipeline
+
+---
+
+## 💡 Other Notable Work
+
+- **Agentic RAG Platform** — Production-scale analytics with Databricks, Spark, Delta Live Tables, and MLflow
+- **CLICK Platform** — Backend infrastructure serving 16M+ citizens (Sindh Government, World Bank funded)
+- **Smart Surveillance System** — Real-time vehicle detection processing 10K+ records daily (OpenCV + .NET)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Negatrin&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Negatrin&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 Professional Experience
+
+**Google Summer of Code** — *Google DeepMind* (May 2025 - Aug 2025)  
+Open Source Contributor • LLM Infrastructure  
+- Optimized batching pipelines for Gemma 2 embedding generation via KerasHub
+- Dynamic batch size optimization for 10GB+ datasets without OOM failures
+
+**Backend Engineer** — *The Synergates* (Jun 2024 - Oct 2024)  
+- Engineered scalable systems for CLICK platform serving 16M+ citizens
+- Built real-time vehicle detection pipeline for Sindh Smart Surveillance System
+
+**SWE Intern** — *10Pearls* (Jun 2024 - Jul 2024)  
+- Developed backend services using Java Spring Boot with REST APIs
+- Reduced software bugs by 30% through comprehensive testing
+
+---
+
+## 📫 Let's Connect
+
+I'm always open to discussing **distributed systems**, **AI/ML infrastructure**, and **backend architecture**.
+
+- 💼 [LinkedIn](https://linkedin.com/in/muhammad-mustufa-02a108230)
+- 🌐 [Portfolio](https://muhammadmustafa-portfolio.vercel.app)
+- 📧 [mustufashadab123@gmail.com](mailto:mustufashadab123@gmail.com)
+
+---
+
+<div align="center">
+  
+*"Building reliable systems that work at scale"*
+
+![Profile Views](https://komarev.com/ghpvc/?username=Negatrin&color=blueviolet&style=flat-square)
+
+</div>
