@@ -194,35 +194,7 @@ Tech: ASP.NET • C# • SQL Server
 - **Agentic RAG Platform** — Production-scale analytics with Databricks, Spark, Delta Live Tables, and MLflow
 - **CLICK Platform** — Backend infrastructure serving 16M+ citizens (Sindh Government, World Bank funded)
 - **Smart Surveillance System** — Real-time vehicle detection processing 10K+ records daily (OpenCV + .NET)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Negatrin&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Negatrin&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
-## 🎯 Professional Experience
-
-**Google Summer of Code** — *Google DeepMind* (May 2025 - Aug 2025)  
-Open Source Contributor • LLM Infrastructure  
-- Optimized batching pipelines for Gemma 2 embedding generation via KerasHub
-- Dynamic batch size optimization for 10GB+ datasets without OOM failures
-
-**Backend Engineer** — *The Synergates* (Jun 2024 - Oct 2024)  
-- Engineered scalable systems for CLICK platform serving 16M+ citizens
-- Built real-time vehicle detection pipeline for Sindh Smart Surveillance System
-
-**SWE Intern** — *10Pearls* (Jun 2024 - Jul 2024)  
-- Developed backend services using Java Spring Boot with REST APIs
-- Reduced software bugs by 30% through comprehensive testing
+- **Clinical RAG Assistant (Hospital Deployment)** — Designed and deployed a retrieval-augmented generation (RAG) system for clinical support at Aga Khan University Hospital and Shalimar Hospital.
 
 ---
 
